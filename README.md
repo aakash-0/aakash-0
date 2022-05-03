@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yaakash59.ay@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1lhHDCIucHBiuPyOVgns_Zp3vtNdNreWp/edit](https://docs.google.com/document/d/1lhHDCIucHBiuPyOVgns_Zp3vtNdNreWp/edit)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1B0DvE4ISCxuVCch_VePFR_USgFDRx39S/view" target="blank">My Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
