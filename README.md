@@ -3,7 +3,7 @@
 <img align="center"margin="auto" alt="Coding" width="10000" height:"270" src="https://camo.githubusercontent.com/6587ec1b3304a4351679cd4324e47a86ac3e17f878d446bf0e8e6856551d80ba/68747470733a2f2f7468656e696e65686572747a2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30362f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
 - 🌱 I’m currently learning **MERN stack form Masai school**
 
-- 👨‍💻 All of my projects are available at [aakash-yadav-portfolio.netlify.app](aakash-yadav-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at <a href="https://aakash-yadav-portfolio.netlify.app/" target="blank">aakash-yadav-portfolio</a>
 
 - 💬 Ask me about **HTML, CSS, Javascript, Node.js, Express.js, React, Redux**
 
